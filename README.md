@@ -1,15 +1,13 @@
 ###
 <div align="center">
-  
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=FFE4E1&height=150&section=header&text=🥚경록의 기술🥚&fontColor=8e7cc3&fontSize=50&animation=fadeIn&fontAlignY=55)
-
-
+</div>
+<div align="center">
 <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=#9B9B9B"/> 
 <img src="https://img.shields.io/badge/Spring Boot-green?style=flat-square&logo=Springboot&logoColor=CC6699"/> 
 <img src="https://img.shields.io/badge/JAVA-yellow?style=flat-square&logo=IntelliJidea&logoColor=000000"/>
 <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MariaDB&logoColor=000000"/> 
 <img src="https://img.shields.io/badge/Gradle-gray?style=flat-square&logo=gradle&logoColor=#24A47F"/>
-
 </div>
 
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=FFE4E1&height=150&section=header&text=경록의%20기술&fontColor=8e7cc3&fontSize=50&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=FFE4E1&height=150&section=header&text=경록의%20기술&fontColor=FFFFFF&fontSize=50&animation=fadeIn&fontAlignY=55)
 
 <div align="center">
 <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=#9B9B9B"/> 

@@ -1,10 +1,10 @@
 ### Hi there 👋
+
+<!--
+**GYEONGROK11/GYEONGROK11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center">
   ![header](https://capsule-render.vercel.app/api?type=Venom&color=AAF0D1&height=150&section=header&text=🧁Hello!welcome🧁&fontColor=FFE4E1)
 </div>
-<!--
-**GYEONGROK11/GYEONGROK11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

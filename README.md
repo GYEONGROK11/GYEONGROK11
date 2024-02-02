@@ -1,7 +1,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=FFE4E1&height=150&section=header&text=경록의%20기술&fontColor=000000&fontSize=50&animation=fadeIn&fontAlignY=55)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=경록)]([https://solved.ac/yoon828990](https://github.com/GYEONGROK11))<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=경록)]([https://github.com/GYEONGROK11])<br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=#9B9B9B"/> 
 <img src="https://img.shields.io/badge/Spring Boot-green?style=flat-square&logo=Springboot&logoColor=CC6699"/> 

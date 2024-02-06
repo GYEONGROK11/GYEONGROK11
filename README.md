@@ -4,7 +4,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYEONGROK11&layout=compact)](https://github.com/GYEONGROK11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYEONGROK11&layout=compact)](https://github.com/GYEONGROK11))
 
 <div align="center">
 <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=#9B9B9B"/> 

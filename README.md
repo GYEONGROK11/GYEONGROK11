@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=FFE4E1&height=150&section=header&text=경록의%20기술&fontColor=000000&fontSize=50&animation=fadeIn&fontAlignY=55)
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYEONGROK11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">

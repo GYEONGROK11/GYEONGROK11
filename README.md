@@ -12,7 +12,7 @@
 
 <!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=wruoma)](https://solved.ac/wruoma) -->
 
-<h1>🛠 TECH STACK 🛠</h1>
+<h1>🛠 기술 스택 🛠</h1>
 
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/ERD CLOUD-8D8BD9?style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NOTION-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
-<h1>💭 ABOUT ME 💭</h1>
+<h1>💭 블로그 💭</h1>
 
 <a href="https://gyeongrok.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-ff5500?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
 

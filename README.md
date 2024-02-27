@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/ERD CLOUD-8D8BD9?style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NOTION-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
+<h1>💭 포트폴리오 💭</h1>
+<a href="https://www.notion.so/s-8098b186830c45cca26b415cc6207c4a#5394780ee93f41debe5ce6ecc90dd8c8" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
 <h1>💭 블로그 💭</h1>
 
 <a href="https://gyeongrok.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-ff5500?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>

@@ -26,7 +26,7 @@
 
 <h1>💭 포트폴리오 💭</h1>
 <a href="https://www.notion.so/s-8098b186830c45cca26b415cc6207c4a#5394780ee93f41debe5ce6ecc90dd8c8" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
-<h1>💭 학습 정리 💭</h1>
+<h1>💭 프로그래밍 학습 💭</h1>
 <a href="https://www.notion.so/cfbbe456fb66411aa0f26146fee049a0/" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
 
 </div>

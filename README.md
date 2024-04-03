@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/INTELIJ IDEA-black?style=for-the-badge&logo=Intellij IDEA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ERD CLOUD-8D8BD9?style=for-the-badge&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NOTION-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
 <h1>💭 포트폴리오 💭</h1>

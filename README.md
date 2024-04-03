@@ -14,7 +14,6 @@
 
 <h1>🛠 기술 스택 🛠</h1>
 
-<img src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=blue"/></a>
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/></a>
@@ -25,6 +24,8 @@
 <img src="https://img.shields.io/badge/ERD CLOUD-8D8BD9?style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NOTION-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/filezilla-#BF0000?style=for-the-badge&logo=filezilla&logoColor=white"/></a>
 
 <h1>💭 포트폴리오 💭</h1>
 <a href="https://www.notion.so/s-8098b186830c45cca26b415cc6207c4a#5394780ee93f41debe5ce6ecc90dd8c8" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>

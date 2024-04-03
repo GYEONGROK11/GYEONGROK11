@@ -14,7 +14,7 @@
 
 <h1>🛠 기술 스택 🛠</h1>
 
-<img src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=java&logoColor=red"/></a>
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/></a>
